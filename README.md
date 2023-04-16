@@ -14,5 +14,5 @@ requiring any upstream files (e.g. `FASTQ`,
 2. Run:
 
     ```bash
-    ./nextflow run main.nf
+    ./nextflow run ericsdavis/confluence -r main
     ```
